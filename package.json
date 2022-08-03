@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Bastle/node-demo.git",
-  "author": "Chris.Cheng <chris.cheng@ximalaya.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
